@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3F214E",
+        "titleBar.activeBackground": "#582E6D",
+        "titleBar.activeForeground": "#FCFBFD"
+    },
+    "taipyStudio.gUI.elementsFilePaths": []
+}
