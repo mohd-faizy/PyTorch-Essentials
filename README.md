@@ -8,7 +8,7 @@
 
 
 # PyTorch Essentials
-![PyTorch](_img\pytorch.jpg)
+![PyTorch](https://github.com/mohd-faizy/PyTorch-Essentials/blob/main/_img/pytorch.jpg?raw=true)
 
 **Welcome to PyTorch Essentials, a comprehensive repository covering the power and versatility of PyTorch, a cutting-edge deep learning library.**
 
@@ -162,8 +162,7 @@ This repository covers a wide range of topics, including:
 ##  🍰 Contributing
 Contributions are welcome! 
 
-## ❤️ Support
-If you find this repository helpful, show your support by starring it! For questions or feedback, reach out on Twitter.
+
 
 ## 🙇 Acknowledgements
 
@@ -178,6 +177,10 @@ If you find this repository helpful, show your support by starring it! For quest
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
+
+## ❤️ Support
+
+If you find this repository helpful, show your support by starring it! For questions or feedback, reach out on [Twitter(`X`)](https://twitter.com/F4izy).
 
 #### $\color{skyblue}{\textbf{Connect with me:}}$
 
