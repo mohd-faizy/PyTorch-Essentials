@@ -66,7 +66,7 @@ def plot_decision_boundary(model: torch.nn.Module, X: torch.Tensor, y: torch.Ten
     # Reshape preds and plot
     y_pred = y_pred.reshape(xx.shape).detach().numpy()
     plt.contourf(xx, yy, y_pred, cmap=plt.cm.RdYlBu, alpha=0.7)
-    plt.scatter(X[:, 0], X[:, 1], c=y, s=40, cmap=plt.cm.RdYlBu)
+    plt.scatter(X[:, 0], X[:, 1], c=y, s=40, cmap=plt.cm.RdYlBu, edgecolors="black")
     plt.xlim(xx.min(), xx.max())
     plt.ylim(yy.min(), yy.max())
 
@@ -81,14 +81,14 @@ def plot_predictions(
     plt.figure(figsize=(10, 7))
 
     # Plot training data in blue
-    plt.scatter(train_data, train_labels, c="b", s=4, label="Training data")
+    plt.scatter(train_data, train_labels, c="b", s=4, label="Training data", edgecolors="black")
 
     # Plot test data in green
-    plt.scatter(test_data, test_labels, c="g", s=4, label="Testing data")
+    plt.scatter(test_data, test_labels, c="g", s=4, label="Testing data", edgecolors="black")
 
     if predictions is not None:
         # Plot the predictions in red (predictions were made on the test data)
-        plt.scatter(test_data, predictions, c="r", s=4, label="Predictions")
+        plt.scatter(test_data, predictions, c="r", s=4, label="Predictions", edgecolors="black")
 
     # Show the legend
     plt.legend(prop={"size": 14})
