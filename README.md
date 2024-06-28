@@ -24,8 +24,11 @@ PyTorch is not just a library; it's a revolution in the world of deep learning. 
 
 - **Rich Ecosystem:** With support for computer vision, natural language processing, reinforcement learning, and more, PyTorch offers a rich ecosystem of tools and libraries for diverse deep learning tasks.
 
+## 🛣️Roadmap 
 
-## 🔦Explore the PyTorch 
+![PyTorch](_img\PyTorch-RoadMap.png)
+
+## 🔦Explore 
 
 
 This repository covers a wide range of topics, including:
