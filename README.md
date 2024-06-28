@@ -26,7 +26,7 @@ PyTorch is not just a library; it's a revolution in the world of deep learning. 
 
 ## 🛣️Roadmap 
 
-![PyTorch](_img\PyTorch-RoadMap.png)
+![PyTorch](https://raw.githubusercontent.com/mohd-faizy/PyTorch-Essentials/main/_img/PyTorch-RoadMap.png)
 
 ## 🔦Explore 
 
