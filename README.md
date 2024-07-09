@@ -133,9 +133,8 @@ This repository covers a wide range of topics, including:
 | **Optimizers**        | `optimizer = optim.SGD(model.parameters(), lr=0.01)` | Stochastic Gradient Descent optimizer                                                         | optimizers                           |
 |                       | `optimizer = optim.Adam(model.parameters(), lr=0.001)`| ADAM optimizer                                                                                | optimizers                           |
 |                       | `optimizer.step()`                           | Update weights                                                                                | optimizers                           |
-| **Learning Rate Scheduling** | `scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=30, gamma=0.1)` | Create learning rate scheduler                                                               | learning rate scheduler              |
+| **Learning Rate Scheduling** | `scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=30, gamma=0.1)` | Create learning rate scheduler                                                               | learning rate scheduler  |
 |                       | `scheduler.step()`                           | Adjust learning rate                                                                          | learning rate scheduler              |
-                       |
 
 
 ## ⚡PyTorch APIs
