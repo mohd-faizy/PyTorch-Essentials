@@ -137,54 +137,6 @@ This repository covers a wide range of topics, including:
 
 ![PyTorch-APIs](https://github.com/mohd-faizy/PyTorch-Essentials/blob/main/_img/PyTorch-APIs.png)
 
-## ⚡Unleash the Power of GPUs (Optional)
-
-**Harness the unparalleled processing power of GPUs for:**
-
-- **Faster Training:** Train complex models significantly faster on GPUs compared to CPUs.
-- **Larger Datasets:** Tackle larger and more intricate datasets that would be prohibitive on CPUs.
-- **Experimentation Efficiency:** Accelerate your experimentation process by iterating through models more rapidly.
-
-**We'll guide you through setting up GPU acceleration with Nvidia CUDA for a seamless experience (if applicable).**
-
-## ️ ➤ Building Robust Workflows
-
-- **Modular Codebase:** Organize your PyTorch projects for clarity, maintainability, and scalability.
-  - Separate data preprocessing, model definition, training, and evaluation into well-defined modules.
-  - Promote code reusability and streamline complex projects.
-- **Custom Datasets:** Tailor datasets to your specific needs. Learn how to create custom datasets for diverse applications.
-  - Load and preprocess data efficiently for optimal model performance.
-
-## ➤ Leverage Pre-trained Knowledge (Transfer Learning)
-
-**Stand on the shoulders of giants:**
-
-- Benefit from pre-trained models trained on large-scale datasets, saving time and resources.
-- Fine-tune pre-trained models for your specific tasks, achieving excellent results faster.
-
-## ➤ Track Experiments with Confidence
-
-- Implement robust experiment tracking for systematic analysis:
-  - Log hyperparameters, model architectures, and training details seamlessly.
-  - Compare and reproduce experiments effortlessly for iterative improvement.
-  - Integrate with tools like Weights & Biases or MLflow for enhanced visualization and collaboration (optional).
-
-## ➤ Replicate Cutting-Edge Research
-
-**Unravel the magic behind research papers:**
-
-- Follow along with detailed walkthroughs of groundbreaking PyTorch research papers in various domains.
-- Replicate research and gain an in-depth understanding of advanced deep learning techniques.
-- Bridge the gap between theoretical concepts and practical implementation.
-
-## ➤ Deploy Models to the Real World
-
-**Prepare your models for real-world scenarios:**
-
-- Learn strategies for converting PyTorch models into formats suitable for deployment in production environments.
-- Explore serving frameworks like TorchScript or ONNX for efficient model inference.
-
-## 
 
 ##  🍰 Contributing
 Contributions are welcome! 
