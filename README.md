@@ -26,7 +26,27 @@ PyTorch is not just a library; it's a revolution in the world of deep learning. 
 
 ## 🛣️Roadmap 
 
-![PyTorch](https://raw.githubusercontent.com/mohd-faizy/PyTorch-Essentials/main/_img/PyTorch-RoadMap.png)
+![PyTorch](https://github.com/mohd-faizy/PyTorch-Essentials/blob/5acd20cf064df9b145ecddf41777001b68d58998/_img/PyTorch-M2.png)
+
+## 
+
+| # | Notebook | Link |
+|---|---------|------|
+| 01 | **Pytorch Basics P1** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_w9niMqKK9ZEH4MNicD5RNyyWMBZ0o-_?usp=sharing)|
+| 02 | **Pytorch Basics P2** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iKrt_8YOMR06oD42J1lp_-XEdrMxv0Dg?usp=sharing)|
+| 03 | **Linear Regression** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1v4ZyU-gmVbPD2o7-sbnUYhc06qLzUj-g/view?usp=sharing)|
+| 04 | **Binary Classification P1 - [`sklearn` `make_moons` dataset]** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/136APJ-1-yHLYErbL4h0pxV20d8skWuAs?usp=sharing)|
+| 05 | **Binary-Classification P2** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/180uA8tOTRn3GgYleUnEk6QD3dneDFS99?usp=sharing)|
+| 06 | **Multi-Class Classification P1 - [`sklearn` `make_Blob` dataset]** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_aRQd9oJk5bOsPWyJ80UM1ctxiRFyOaP?usp=sharing)|
+| 07 | **Multi-Class-Classification P2** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x_Rfv6ChnFpZyEecnlIEUNT-W6AqR6cB?usp=sharing)|
+| 08 | **Computer Vision - Artificial Neural Network (ANN)** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16jEyphHuDEWrhbbRkQe87F6NY48C_vKm?usp=sharing)|
+| 09 | **Computer Vision - LeNet5** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d5oQCy2EtElmkgix6ZW6IckRUZieMCmG?usp=sharing)|
+| 10 | **Computer Vision - Convolutional Neural Network (CNN)** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1OxHpLJQP7cKAatn76OdNJzGwWfVRA4bM/view?usp=sharing)|
+| 11 | **Custom Datasets P1** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1fE02hTsmvQhH768w4e7PGHGWXgIYvNnS/view?usp=sharing)|
+| 11 | **Costom_DataSets P2** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LpT0c7fzfzRWA3fEB9BWgEi3JKFqRCzW?usp=sharing)|
+| 11 | **PyTorch Going Modular** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SuOM32KgIgQbkWczPapXPY6BQYU6MM9y?usp=sharing)|
+<!-- | 12 | **** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| -->
+
 
 ## 🔦Explore 
 
