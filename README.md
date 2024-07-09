@@ -113,7 +113,11 @@ This repository covers a wide range of topics, including:
 |                       | `scheduler.step()`                           |
 
 
-## ⚡ Unleash the Power of GPUs (Optional)
+## ⚡PyTorch APIs
+
+![PyTorch-APIs](https://github.com/mohd-faizy/PyTorch-Essentials/blob/main/_img/PyTorch-APIs.png)
+
+## ⚡Unleash the Power of GPUs (Optional)
 
 **Harness the unparalleled processing power of GPUs for:**
 
