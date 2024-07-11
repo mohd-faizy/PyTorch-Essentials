@@ -19,14 +19,15 @@
   - [Table of Contents](#table-of-contents)
   - [🚀 Why PyTorch?](#-why-pytorch)
   - [🛣️Roadmap](#️roadmap)
-   -  [🔦Explore](#explore)
-  - [PyTorch💧](#pytorch)
+  - [📒Colab-Notebook](#colab-notebook)
+  - [🔦Explore](#explore)
+  - [💧PyTorch code](#pytorch-code)
   - [⚡PyTorch APIs](#pytorch-apis)
   - [🍰 Contributing](#-contributing)
   - [🙇 Acknowledgements](#-acknowledgements)
   - [⚖ ➤ License](#--license)
   - [❤️ Support](#️-support)
-      - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
+  - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
 
 
 ## 🚀 Why PyTorch?
@@ -45,7 +46,7 @@ PyTorch is not just a library; it's a revolution in the world of deep learning. 
 
 ![PyTorch](https://github.com/mohd-faizy/PyTorch-Essentials/blob/5acd20cf064df9b145ecddf41777001b68d58998/_img/PyTorch-M2.png)
 
-## 
+## 📒Colab-Notebook
 
 | # | Notebook | Link |
 |---|---------|------|
@@ -86,7 +87,7 @@ This repository covers a wide range of topics, including:
 
 - **Bonus:** Dive into the exciting world of **PyTorch Lightning**, a framework that streamlines the machine learning development process.
 
-## PyTorch💧
+## 💧PyTorch code 
 
 | Category              | Import Code Example                           | Description                                                                                   | See                                  |
 |-----------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------|
@@ -182,7 +183,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 If you find this repository helpful, show your support by starring it! For questions or feedback, reach out on [Twitter(`X`)](https://twitter.com/F4izy).
 
-#### $\color{skyblue}{\textbf{Connect with me:}}$
+## $\color{skyblue}{\textbf{Connect with me:}}$
 
 ➤ If you have questions or feedback, feel free to reach out!!!
 
