@@ -18,16 +18,16 @@
 - [PyTorch Essentials](#pytorch-essentials)
   - [Table of Contents](#table-of-contents)
   - [🚀 Why PyTorch?](#-why-pytorch)
-  - [🛣️Roadmap](#️roadmap)
-  - [📒Colab-Notebook](#colab-notebook)
-  - [🔦Explore](#explore)
-  - [💧PyTorch code](#pytorch-code)
-  - [⚡PyTorch APIs](#pytorch-apis)
+  - [🛣️ Roadmap](#️roadmap)
+  - [📒 Colab-Notebook](#colab-notebook)
+  - [🔦 Explore](#explore)
+  - [💧 PyTorch code](#pytorch-code)
+  - [⚡ PyTorch APIs](#pytorch-apis)
   - [🍰 Contributing](#-contributing)
   - [🙇 Acknowledgements](#-acknowledgements)
-  - [⚖ ➤ License](#--license)
+  - [⚖ License](#--license)
   - [❤️ Support](#️-support)
-  - [🔗Connect](#Connect)
+  - [🔗 Connect](#Connect)
 
 
 ## 🚀 Why PyTorch?
