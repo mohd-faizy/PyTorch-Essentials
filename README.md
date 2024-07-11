@@ -27,7 +27,7 @@
   - [🙇 Acknowledgements](#-acknowledgements)
   - [⚖ ➤ License](#--license)
   - [❤️ Support](#️-support)
-  - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
+  - [🔗Connect](#Connect)
 
 
 ## 🚀 Why PyTorch?
