@@ -8,9 +8,26 @@
 
 
 # PyTorch Essentials
+
 ![PyTorch](https://github.com/mohd-faizy/PyTorch-Essentials/blob/main/_img/pytorch.jpg?raw=true)
 
 **Welcome to PyTorch Essentials, a comprehensive repository covering the power and versatility of PyTorch, a cutting-edge deep learning library.**
+
+## Table of Contents
+
+- [PyTorch Essentials](#pytorch-essentials)
+  - [Table of Contents](#table-of-contents)
+  - [🚀 Why PyTorch?](#-why-pytorch)
+  - [🛣️Roadmap](#️roadmap)
+   -  [🔦Explore](#explore)
+  - [PyTorch💧](#pytorch)
+  - [⚡PyTorch APIs](#pytorch-apis)
+  - [🍰 Contributing](#-contributing)
+  - [🙇 Acknowledgements](#-acknowledgements)
+  - [⚖ ➤ License](#--license)
+  - [❤️ Support](#️-support)
+      - [$\\color{skyblue}{\\textbf{Connect with me:}}$](#colorskybluetextbfconnect-with-me)
+
 
 ## 🚀 Why PyTorch?
 
