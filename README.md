@@ -27,9 +27,6 @@
   - [🙇 Acknowledgements](#-acknowledgements)
   - [⚖ License](#--license)
   - [❤️ Support](#️-support)
-<<<<<<< HEAD
-  - **Connect** 
-=======
   - [🔗 Connect](#Connect)
 
 >>>>>>> 7f994affd33498657cafa1d1862fed4b042561ab
