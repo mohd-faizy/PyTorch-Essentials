@@ -29,8 +29,6 @@
   - [❤️ Support](#️-support)
   - [🔗 Connect](#Connect)
 
->>>>>>> 7f994affd33498657cafa1d1862fed4b042561ab
-
 ## 🚀 Why PyTorch?
 
 PyTorch is not just a library; it's a revolution in the world of deep learning. Here are some reasons why PyTorch stands out:
