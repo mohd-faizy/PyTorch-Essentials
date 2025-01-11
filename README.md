@@ -218,20 +218,20 @@
 
 | **Aspect**                         | **PyTorch**                              | **TensorFlow (Pre-2.x)**                 | **Verdict**                                               |
 |------------------------------------|------------------------------------------|-----------------------------------------|-----------------------------------------------------------|
-| **Programming Language**           | Pythonic (Python-first design)           | C++-centric, Python API                 | PyTorch has a more Pythonic, user-friendly design.        |
-| **Ease of Use**                    | Intuitive, easier to learn               | Verbose, steep learning curve           | PyTorch is easier to use, especially for beginners.       |
-| **Deployment and Production**      | TorchScript, ONNX                        | TensorFlow Lite, TensorFlow Extended (TFX) | TensorFlow has more robust production deployment tools.  |
-| **Performance**                    | Good, especially on GPUs                  | Highly optimized, very fast             | TensorFlow is often more optimized for production workloads. |
+| **Programming Language**           | Pythonic (Python-first design)           | Supports Mulitple languages: Python, C++, Java, Tensorflow.js, Swift.  | PyTorch has a more Pythonic, user-friendly design.        |
+| **Ease of Use**                    | Intuitive, easier to learn               | TensorFlow `2.x` improved usability with keras integration, but can be still complex.  | PyTorch is easier to use, especially for beginners.       |
+| **Deployment and Production**      | TorchScript, ONNX                        | TensorFlow Lite, TensorFlow Extended (TFX), TensorFlow.js | TensorFlow has more robust production deployment tools.  |
+| **Performance**                    | Good, especially on GPUs, Offer TorchScript for model serialization   | Highly optimized, very fast, use XLA compiler             | TensorFlow is often more optimized for production workloads. |
 | **Community and Ecosystem**        | Fast-growing, research-centric, smaller ecosystem | Established, larger ecosystem, but fragmented | TensorFlow has a larger, more mature community.           |
-| **High-Level API**                 | Higher-level APIs (e.g., `torch.nn`)     | Keras (integrated in TensorFlow 2.x)    | TensorFlow’s Keras API is more mature but less flexible.  |
+| **High-Level API**                 | Higher-level APIs (e.g., `torch.nn`), PyTorch Lightning and Fast.ai     | Keras (integrated in TensorFlow 2.x)    | TensorFlow’s Keras API is more mature but less flexible.  |
 | **Mobile and Embedded Deployment** | Limited support (via TorchScript, LibTorch) | TensorFlow Lite                         | TensorFlow Lite has more support for mobile and embedded devices. |
 | **Preferred Domain**               | Research, academia, prototyping          | Production, web, mobile, large-scale systems | TensorFlow is preferred for production-ready systems, while PyTorch excels in research. |
 | **Learning Curve**                 | Moderate (easy to get started)           | Steep (especially in pre-2.x)            | PyTorch has a gentler learning curve.                    |
-| **Interoperability**               | Supports ONNX, Python-first ecosystem    | Limited interoperability (Pre-2.x)      | PyTorch is better in terms of interoperability with other tools. |
+| **Interoperability**               | Supports ONNX, Python-first ecosystem    | Limited interoperability (Pre-2.x), Now use TensorFlow Hub and Saved Model; Support ONNX with some limitations.      | PyTorch is better in terms of interoperability with other tools. |
 | **Customizability**                | High (flexible design, dynamic graphs)   | Moderate (requires more effort for custom solutions) | PyTorch is more customizable due to its dynamic nature.   |
-| **Deployment Tools**               | TorchServe, ONNX, cloud support          | TensorFlow Serving, TFX                 | TensorFlow has more production deployment tools and frameworks. |
-| **Parallelism and Distributed Training** | Distributed data parallelism, torch.distributed | Distributed TensorFlow, complex setup  | TensorFlow is generally more mature for distributed training. |
-| **Model Zoo and Pretrained Models** | Large, research-focused models           | Larger, more production-ready models    | TensorFlow has a larger and more diverse model zoo for production use. |
+| **Deployment Tools**               | TorchServe, ONNX, cloud support          | TensorFlow Serving, TensorFlow Extended (TFX) for ML pipelines.                  | TensorFlow has more production deployment tools and frameworks. |
+| **Parallelism and Distributed Training** | Distributed data parallelism, `torch.distributed` | Extensive Support with `tf.distribute.Strategy`; optimized for large-scale computing | TensorFlow is generally more mature for distributed training. |
+| **Model Zoo and Pretrained Models** | Access via `TorchVision` Hugging Face; strong community sharing | TensorFlow Hub offer a wide range; extensive community models   | Both offer extensive Pre-trained models |
 
 ## **🔄 Core Modules**
 
