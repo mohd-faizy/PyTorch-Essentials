@@ -17,6 +17,7 @@
 - [PyTorch Essentials](#pytorch-essentials)
   - [Table of Contents](#table-of-contents)
   - [🚀 Why PyTorch?](#-why-pytorch)
+    - [Understanding Tensors in PyTorch](#understanding-tensors-in-pytorch)
     - [**📅 PyTorch Release Timeline**](#-pytorch-release-timeline)
       - [**PyTorch 0.1 (2017)**](#pytorch-01-2017)
       - [**PyTorch 1.0 (2018)**](#pytorch-10-2018)
@@ -58,6 +59,10 @@
 
 - **Open-Source Deep Learning Library**: Developed by **Meta AI** (formerly **Facebook AI Research**).
 - **Python & Torch**: Combines Python’s ease of use with the efficiency of the Torch scientific computing framework, originally built with **Lua**. Torch was known for high-performance tensor-based operations, especially on GPUs.
+
+### Understanding Tensors in PyTorch
+Tensors are multi-dimensional arrays and the core data structure in PyTorch.
+![Tensor](_img\Tensor.png)
 
 ### **📅 PyTorch Release Timeline**
 
