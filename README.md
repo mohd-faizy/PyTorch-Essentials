@@ -62,7 +62,7 @@
 
 ### Understanding Tensors in PyTorch
 Tensors are multi-dimensional arrays and the core data structure in PyTorch.
-![Tensor](_img\Tensor.png)
+![Tensor](https://raw.githubusercontent.com/mohd-faizy/PyTorch-Essentials/refs/heads/main/_img/Tensor.png)
 
 ### **📅 PyTorch Release Timeline**
 
