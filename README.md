@@ -44,7 +44,8 @@
   - [**📊 Domain Libraries**](#-domain-libraries)
   - [**💡 Popular Ecosystem Libraries**](#-popular-ecosystem-libraries)
   - [🛣️Roadmap](#️roadmap)
-  - [📒Colab-Notebook](#colab-notebook)
+  - [📒Colab-Notebook-1](#colab-notebook-1)
+  - [📒Colab-Notebook-2](#colab-notebook-2)
   - [🔦Explore](#explore)
   - [💧PyTorch code](#pytorch-code)
   - [⚡PyTorch APIs](#pytorch-apis)
@@ -292,7 +293,7 @@ Tensors are multi-dimensional arrays and the core data structure in PyTorch.
 
 ![PyTorch](https://github.com/mohd-faizy/PyTorch-Essentials/blob/5acd20cf064df9b145ecddf41777001b68d58998/_img/PyTorch-M2.png)
 
-## 📒Colab-Notebook
+## 📒Colab-Notebook-1
 
 | # | Notebook | Link |
 |---|---------|------|
@@ -310,6 +311,14 @@ Tensors are multi-dimensional arrays and the core data structure in PyTorch.
 | 11 | **Costom_DataSets P2** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LpT0c7fzfzRWA3fEB9BWgEi3JKFqRCzW?usp=sharing)|
 | 11 | **PyTorch Going Modular** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SuOM32KgIgQbkWczPapXPY6BQYU6MM9y?usp=sharing)|
 | 12 | **Transfer Learning** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+
+
+## 📒Colab-Notebook-2
+
+| # | Notebook | Link |
+|---|---------|------|
+| 01 | **Tensor in PyTorch** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+
 
 ## 🔦Explore
 
