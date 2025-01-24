@@ -18,6 +18,7 @@
   - [Table of Contents](#table-of-contents)
   - [🚀 Why PyTorch?](#-why-pytorch)
     - [Understanding Tensors in PyTorch](#understanding-tensors-in-pytorch)
+    - [🗄️**Data Types**](#️data-types)
     - [**📅 PyTorch Release Timeline**](#-pytorch-release-timeline)
       - [**PyTorch 0.1 (2017)**](#pytorch-01-2017)
       - [**PyTorch 1.0 (2018)**](#pytorch-10-2018)
@@ -62,8 +63,29 @@
 - **Python & Torch**: Combines Python’s ease of use with the efficiency of the Torch scientific computing framework, originally built with **Lua**. Torch was known for high-performance tensor-based operations, especially on GPUs.
 
 ### Understanding Tensors in PyTorch
-Tensors are multi-dimensional arrays and the core data structure in PyTorch.
+
+*Tensors are multi-dimensional arrays and the core data structure in PyTorch.*
 ![Tensor](https://raw.githubusercontent.com/mohd-faizy/PyTorch-Essentials/refs/heads/main/_img/Tensor.png)
+
+### 🗄️**Data Types**
+
+| **Data Types**         | **Dtype**         | **Description**                                                                                                                                       |
+|------------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **32-bit Floating Point** | `torch.float32`   | Standard floating-point type used for most deep learning tasks. Provides a balance between precision and memory usage.                            |
+| **64-bit Floating Point** | `torch.float64`   | Double-precision floating point. Useful for high-precision numerical tasks but uses more memory.                                                  |
+| **16-bit Floating Point** | `torch.float16`   | Half-precision floating point. Commonly used in mixed-precision training to reduce memory and computation.                                        |
+| **BFloat16**              | `torch.bfloat16`  | Brain floating-point format with reduced precision compared to `float16`. Used in mixed-precision training.                                       |
+| **8-bit Floating Point**  | `torch.float8`    | Ultra-low-precision floating point. Used for experimental applications and extreme memory-constrained scenarios.                                  |
+| **8-bit Integer**         | `torch.int8`      | 8-bit signed integer. Used for quantized models to save memory and computation in inference.                                                      |
+| **16-bit Integer**        | `torch.int16`     | 16-bit signed integer. Useful for special numerical tasks requiring intermediate precision.                                                       |
+| **32-bit Integer**        | `torch.int32`     | Standard signed integer type. Commonly used for indexing and general-purpose numerical tasks.                                                     |
+| **64-bit Integer (Long Tensor)** | `torch.int64`     | Long integer type. Often used for large indexing arrays or tasks involving large numbers.                                                  |
+| **8-bit Unsigned Integer** | `torch.uint8`     | 8-bit unsigned integer. Commonly used for image data (e.g., pixel values between 0 and 255).                                                     |
+| **Boolean**             | `torch.bool`      | Boolean type. Stores `True` or `False` values. Often used for masks in logical operations.                                                          |
+| **Complex 64**          | `torch.complex64` | Complex number type with 32-bit real and 32-bit imaginary parts. Used for scientific and signal processing tasks.                                   |
+| **Complex 128**         | `torch.complex128`| Complex number type with 64-bit real and 64-bit imaginary parts. Offers higher precision but uses more memory.                                      |
+| **Quantized Integer**   | `torch.qint8`     | Quantized signed 8-bit integer. Used in quantized models for efficient inference.                                                                   |
+| **Quantized Unsigned Integer** | `torch.quint8`    | Quantized unsigned 8-bit integer. Often used for quantized tensors in image-related tasks.                                                   |
 
 ### **📅 PyTorch Release Timeline**
 
