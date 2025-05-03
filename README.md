@@ -339,7 +339,9 @@
 
 | # | Notebook | Link |
 |---|---------|------|
-| 01 | **Tensor in PyTorch** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+| 01 | **Tensor in PyTorch** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1_wy-hcKfMT7v_kpXxJd2VQibbY8qJbFi/view?usp=sharing)|
+| 02 | **PyTorch Autograd** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1eHEdnT-gNh5ImCc0giXf32PRI7_i07hX/view?usp=sharing)|
+| 03 | **PyTorch Training Pipeline** |  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Thw9YVUJPKRrzWPWdwGVQJrTbfnE3xMn/view?usp=sharing)|
 
 
 ## 🔦Explore
