@@ -265,18 +265,18 @@
 
 | **Module**                    | **Description**                                                                 | **Key Features/Functions**                                   |
 |-------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------|
-| **torch**                      | The base PyTorch library that includes core functions and tensor operations.    | Tensor operations, device management, and random number generation. |
-| **torch.autograd**             | Automatic differentiation for computing gradients.                             | `autograd.Function`, `backward()`, and gradient computation. |
-| **torch.nn**                   | Module for building neural networks with layers, losses, and optimizers.        | Layers (e.g., `nn.Linear`, `nn.Conv2d`), loss functions (e.g., `nn.CrossEntropyLoss`). |
-| **torch.optim**                | Optimization algorithms like SGD, Adam, and more.                               | Optimizers like `SGD`, `Adam`, and `RMSprop`.               |
-| **torch.utils.data**           | Utility functions for data handling, including Dataset and DataLoader classes.  | `Dataset`, `DataLoader`, and batch processing.              |
-| **torch.jit**                  | JIT (Just-In-Time) compiler for optimizing models.                              | Model serialization with `torch.jit.script`, speed optimization. |
-| **torch.distributed**          | Distributed computing for training across multiple devices or nodes.            | Multi-GPU training, `DistributedDataParallel`.               |
-| **torch.cuda**                 | CUDA interface for GPU acceleration.                                            | GPU tensor operations (`cuda()`, `to(device)`, etc.).       |
-| **torch.backend**              | Backend operations for execution on different hardware.                         | Execution backends like XLA (for TPUs), and others.         |
-| **torch.multiprocessing**      | For parallel computing with multiple processes.                                | Multi-process data loading and execution.                   |
-| **torch.quantization**         | Quantization tools for reducing model size and improving inference speed.       | Model conversion to `qint8` for faster deployment.          |
-| **torch.onnx**                 | Interoperability with other frameworks through the Open Neural Network Exchange (ONNX) format. | Export models to ONNX with `torch.onnx.export`.             |
+| **`torch`**                      | The base PyTorch library that includes core functions and tensor operations.    | Tensor operations, device management, and random number generation. |
+| **`torch.autograd`**             | Automatic differentiation for computing gradients.                             | `autograd.Function`, `backward()`, and gradient computation. |
+| **`torch.nn`**                   | Module for building neural networks with layers, losses, and optimizers.        | Layers (e.g., `nn.Linear`, `nn.Conv2d`), loss functions (e.g., `nn.CrossEntropyLoss`). |
+| **`torch.optim`**                | Optimization algorithms like SGD, Adam, and more.                               | Optimizers like `SGD`, `Adam`, and `RMSprop`.               |
+| **`torch.utils.data`**           | Utility functions for data handling, including Dataset and DataLoader classes.  | `Dataset`, `DataLoader`, and batch processing.              |
+| **`torch.jit`**                  | JIT (Just-In-Time) compiler for optimizing models.                              | Model serialization with `torch.jit.script`, speed optimization. |
+| **`torch.distributed`**          | Distributed computing for training across multiple devices or nodes.            | Multi-GPU training, `DistributedDataParallel`.               |
+| **`torch.cuda`**                 | CUDA interface for GPU acceleration.                                            | GPU tensor operations (`cuda()`, `to(device)`, etc.).       |
+| **`torch.backend`**              | Backend operations for execution on different hardware.                         | Execution backends like XLA (for TPUs), and others.         |
+| **`torch.multiprocessing`**      | For parallel computing with multiple processes.                                | Multi-process data loading and execution.                   |
+| **`torch.quantization`**         | Quantization tools for reducing model size and improving inference speed.       | Model conversion to `qint8` for faster deployment.          |
+| **`torch.onnx`**                 | Interoperability with other frameworks through the Open Neural Network Exchange (ONNX) format. | Export models to ONNX with `torch.onnx.export`.             |
 
 ## **📊 Domain Libraries**
 
@@ -285,14 +285,17 @@
 | **`torchvision`** | Computer vision domain library for tasks like image classification, detection, etc. | Pre-trained models (e.g., ResNet, VGG), transforms (e.g., `Resize`, `ToTensor`), dataset classes (`CIFAR10`, `ImageNet`). |
 | **`torchaudio`** | Library for audio processing tasks, including speech recognition, sound classification, and more. | Audio loading (`torchaudio.load`), spectrograms, pre-trained models for speech recognition. |
 | **`torchtext`** | Natural language processing (NLP) domain library for text-based tasks. | Text preprocessing, tokenization, embeddings (e.g., GloVe), dataset classes (`IMDB`, `TextClassification`). |
-| **torchmetrics`** | Metrics computation library for deep learning tasks. | Metric classes for accuracy, precision, recall, F1 score, etc. for various tasks (e.g., classification, regression). |
+| **`torchmetrics`** | Metrics computation library for deep learning tasks. | Metric classes for accuracy, precision, recall, F1 score, etc. for various tasks (e.g., classification, regression). |
 | **`torchgeo`** | PyTorch library for geospatial and remote sensing data. | Geo-specific datasets, models, and transforms for satellite imagery and geospatial data processing. |
 | **`torchrl`** | Reinforcement learning library for building and training RL models. | RL-specific models (e.g., DQN, A3C), environments, and training pipelines. |
 | **`torchquantum`** | Quantum machine learning library built on top of PyTorch. | Quantum circuits, quantum data processing, hybrid classical-quantum learning. |
 | **`torchdrug`** | Deep learning library for computational biology and drug discovery. | Molecular graphs, cheminformatics, and graph neural networks for drug discovery. |
 | **`torchbio`** | Bioinformatics-focused library for deep learning with biological datasets. | Sequence models, genomic data processing, biological datasets. |
 | **`torchrec`** | PyTorch library for building and deploying recommendation systems. | Embedding models, ranking algorithms, and efficient data handling for recommendation tasks. |
-| **`torchtext`** | Natural language processing library tailored for text-based ML tasks. | Text tokenization, embedding integration, datasets for NLP (e.g., IMDB, SQuAD). |
+| **`torcharrow`** | Library for accelerated data loading and preprocessing, especially for tabular and time series data. | High-performance data processing, optimized for ML workflows (experimental). |
+| **`torchserve`** | Model serving library for deploying PyTorch models at scale in production. | REST APIs, scalable serving, model versioning, inference logging. |
+| **`pytorch_lightning`** | High-level wrapper that simplifies training loops and reduces boilerplate. | Trainer class, distributed training support, reproducible and scalable model training. |
+
 
 ## **💡 Popular Ecosystem Libraries**
 
